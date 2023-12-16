@@ -1,0 +1,7 @@
+{
+  "name": "AfrikApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
